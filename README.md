@@ -1,4 +1,4 @@
-# Youtube--UI-React-Native
+# Youtube-UI-React-Native
 Youtube UI - (Dark Theme)
 # Created Using React Native (Expo)
 ## UI Screenshots
